@@ -11,6 +11,7 @@
 
 from fun import fun1
 
+
 if __name__ == '__main__':
     # Запрашиваем переменную с клавиатуры
     k = float(input("Введите число: "))
