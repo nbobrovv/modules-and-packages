@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import sys
-from modules import *
+from moduls import *
 
 
 if __name__ == '__main__':
